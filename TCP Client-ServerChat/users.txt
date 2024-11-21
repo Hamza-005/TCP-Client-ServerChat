@@ -1,0 +1,12 @@
+Adam:1Cb2
+arthur:123
+a:a
+car:car
+yousef:123
+alice:aaa
+Aws:ABcd
+hamza:123
+sam:sam
+saly:A20B
+ahmad:123
+ali:1234
